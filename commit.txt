@@ -1,0 +1,6 @@
+commit1 performing an update & image gallery
+commit2 perform a style for no1
+commit3 tic tac toe
+commit4 flag
+commit5 media quieries
+commit6
